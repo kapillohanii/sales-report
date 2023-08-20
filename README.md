@@ -1,9 +1,9 @@
 ﻿# sales-report
- # # SQL
+ # SQL
    data cleansing\
    data model\
- # # Power Bi
+ # Power Bi
    added measures\
    data visualization
-# # Dashboard
+# Dashboard
 ![Dashboard](https://github.com/kapillohanii/sales-report/blob/main/Dashboard.png)
