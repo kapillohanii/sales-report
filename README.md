@@ -1,7 +1,7 @@
 ﻿# sales-report
  # SQL
    data cleansing and\
-   data model
+   data modeling
  # Power Bi
    added measures and\
    data visualization
